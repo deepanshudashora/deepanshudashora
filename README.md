@@ -3,16 +3,14 @@
 <!--
 **deepanshudashora/deepanshudashora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on machien learning and deep learning
-- 🌱 I’m currently learning neural networks and ds-algo
+
+
+I’m currently learning neural networks and ds-algo
 - 👯 I’m looking to collaborate on data science 
 - 🤔 I’m looking for help with data science seekers
 - 💬 Ask me about my projects and collaboration
 - 📫 How to reach me: https://www.linkedin.com/in/deepanshu-dashora-0009
-
-
 --> have some questions feel free to direct message on LinkedIn 😊
 
 Thanks for visiting my profile have a good day!
