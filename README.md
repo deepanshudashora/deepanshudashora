@@ -11,6 +11,6 @@ I’m currently learning neural networks and ds-algo
 - 🤔 I’m looking for help with data science seekers
 - 💬 Ask me about my projects and collaboration
 - 📫 How to reach me: https://www.linkedin.com/in/deepanshu-dashora-0009
---> have some questions feel free to direct message on LinkedIn 😊
+--> have some questions feel free to direct message on LinkedIn 😊 (https://www.linkedin.com/in/deepanshu-dashora-0009)
 
 Thanks for visiting my profile have a good day!
